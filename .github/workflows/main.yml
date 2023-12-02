@@ -31,4 +31,4 @@ jobs:
           context: ./sources
           file: ./sources/Dockerfile
           push: true
-          tags: mhachani/docker:1.0.${{github.run_number}}
+          tags: dalidali829/docker:1.0.${{github.run_number}}
